@@ -1,1 +1,1 @@
-# BadDevETH-github.io
+# BadDevETH.github.io
